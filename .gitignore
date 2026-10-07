@@ -1,0 +1,7 @@
+# Compiled binary
+line_editor
+*.o
+*.out
+
+# Test artifacts
+/tmp/
